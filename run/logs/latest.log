@@ -1,0 +1,146 @@
+[236月2024 19:16:28.278] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_userdev_client, --version, MOD_DEV, --assetIndex, 12, --assetsDir, E:\.gradle\caches\forge_gradle\assets, --gameDir, ., --mixin.config, boi.mixins.json]
+[236月2024 19:16:28.281] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Oracle Corporation Java HotSpot(TM) 64-Bit Server VM 17.0.2+8-LTS-86
+[236月2024 19:16:28.283] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.1.2 starting: java version 17.0.2 by Oracle Corporation; OS Windows 10 arch amd64 version 10.0
+[236月2024 19:16:28.392] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
+[236月2024 19:16:28.556] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6
+[236月2024 19:16:28.633] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.6 got version 4.6
+[236月2024 19:16:28.780] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=jar:file:///E:/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar!/ Service=ModLauncher Env=CLIENT
+[236月2024 19:16:28.786] [EarlyDisplay/INFO] [EARLYDISPLAY/]: GL info: Intel(R) HD Graphics 630 GL version 4.6.0 - Build 31.0.101.2121, Intel
+[236月2024 19:16:29.732] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[236月2024 19:16:30.677] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_userdev_client' with arguments [--version, MOD_DEV, --gameDir, ., --assetsDir, E:\.gradle\caches\forge_gradle\assets, --assetIndex, 12]
+[236月2024 19:16:30.712] [main/WARN] [mixin/]: Reference map 'boi.refmap.json' for boi.mixins.json could not be read. If this is a development environment you can ignore this message
+[236月2024 19:16:31.354] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///E:/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/E:/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/E:/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///E:/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/E:/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/E:/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///E:/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/E:/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/E:/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///E:/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/E:/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/E:/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties]
+[236月2024 19:16:31.636] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///E:/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/E:/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/E:/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///E:/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/E:/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/E:/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///E:/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/E:/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/E:/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///E:/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/E:/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/E:/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties]
+[236月2024 19:16:35.115] [Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 198 Datafixer optimizations took 174 milliseconds
+[236月2024 19:16:37.185] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/D:/MinecraftForgeMod/BetterOptionInstance/build/fg_cache/net/minecraftforge/forge/1.20.4-49.0.42_mapped_official_1.20.4/forge-1.20.4-49.0.42_mapped_official_1.20.4.jar%230!/assets/.mcassetsroot' uses unexpected schema
+[236月2024 19:16:37.186] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/D:/MinecraftForgeMod/BetterOptionInstance/build/fg_cache/net/minecraftforge/forge/1.20.4-49.0.42_mapped_official_1.20.4/forge-1.20.4-49.0.42_mapped_official_1.20.4.jar%230!/data/.mcassetsroot' uses unexpected schema
+[236月2024 19:16:37.225] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[236月2024 19:16:37.234] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
+[236月2024 19:16:37.430] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Auto-Jump: Not a boolean: {"result":{}}
+[236月2024 19:16:37.431] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Operator Items Tab: Not a boolean: {"result":{}}
+[236月2024 19:16:37.431] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Command Suggestions: Not a boolean: {"result":{}}
+[236月2024 19:16:37.431] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Colors: Not a boolean: {"result":{}}
+[236月2024 19:16:37.431] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Web Links: Not a boolean: {"result":{}}
+[236月2024 19:16:37.431] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Prompt on Links: Not a boolean: {"result":{}}
+[236月2024 19:16:37.432] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option VSync: Not a boolean: {"result":{}}
+[236月2024 19:16:37.432] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Entity Shadows: Not a boolean: {"result":{}}
+[236月2024 19:16:37.432] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Force Unicode Font: Not a boolean: {"result":{}}
+[236月2024 19:16:37.432] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Discrete Scrolling: Not a boolean: {"result":{}}
+[236月2024 19:16:37.432] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Invert Mouse: Not a boolean: {"result":{}}
+[236月2024 19:16:37.432] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Realms News & Invites: Not a boolean: {"result":{}}
+[236月2024 19:16:37.432] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Reduced Debug Info: Not a boolean: {"result":{}}
+[236月2024 19:16:37.432] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Show Subtitles: Not a boolean: {"result":{}}
+[236月2024 19:16:37.433] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Directional Audio: Not a boolean: {"result":{}}
+[236月2024 19:16:37.433] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Touchscreen Mode: Not a boolean: {"result":{}}
+[236月2024 19:16:37.433] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Fullscreen: Not a boolean: {"result":{}}
+[236月2024 19:16:37.433] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option View Bobbing: Not a boolean: {"result":{}}
+[236月2024 19:16:37.433] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Sneak: Not a boolean: {"result":{}}
+[236月2024 19:16:37.433] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Sprint: Not a boolean: {"result":{}}
+[236月2024 19:16:37.434] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Monochrome Logo: Not a boolean: {"result":{}}
+[236月2024 19:16:37.434] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Hide Lightning Flashes: Not a boolean: {"result":{}}
+[236月2024 19:16:37.434] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Hide Splash Texts: Not a boolean: {"result":{}}
+[236月2024 19:16:37.436] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Sensitivity: Not a boolean: {"result":{}}
+[236月2024 19:16:37.436] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option FOV: Not a number: {"result":{}}
+[236月2024 19:16:37.436] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Distortion Effects: Not a boolean: {"result":{}}
+[236月2024 19:16:37.436] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option FOV Effects: Not a number: {"result":{}}
+[236月2024 19:16:37.436] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Darkness Pulsing: Not a boolean: {"result":{}}
+[236月2024 19:16:37.437] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Glint Speed: Not a boolean: {"result":{}}
+[236月2024 19:16:37.437] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Glint Strength: Not a boolean: {"result":{}}
+[236月2024 19:16:37.437] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Damage Tilt: Not a boolean: {"result":{}}
+[236月2024 19:16:37.437] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option High Contrast: Not a boolean: {"result":{}}
+[236月2024 19:16:37.437] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Narrator Hotkey: Not a boolean: {"result":{}}
+[236月2024 19:16:37.437] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Brightness: Not a boolean: {"result":{}}
+[236月2024 19:16:37.438] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Render Distance: Not a number: {"result":{}}
+[236月2024 19:16:37.438] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Simulation Distance: Not a number: {"result":{}}
+[236月2024 19:16:37.438] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Entity Distance: Not a number: {"result":{}}
+[236月2024 19:16:37.438] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option GUI Scale: Not a number: {"result":{}}
+[236月2024 19:16:37.438] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Particles: Not a number: {"result":{}}
+[236月2024 19:16:37.439] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Max Framerate: Not a number: {"result":{}}
+[236月2024 19:16:37.439] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Graphics: Not a number: {"result":{}}
+[236月2024 19:16:37.439] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Smooth Lighting: Not a boolean: {"result":{}}
+[236月2024 19:16:37.439] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Chunk Builder: Not a number: {"result":{}}
+[236月2024 19:16:37.439] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Biome Blend: Not a number: {"result":{}}
+[236月2024 19:16:37.440] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Clouds: Not a boolean: {"result":{}}
+[236月2024 19:16:37.441] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Device: Not a string: {"result":{}}
+[236月2024 19:16:37.441] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Chat: Not a number: {"result":{}}
+[236月2024 19:16:37.441] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Chat Text Opacity: Not a boolean: {"result":{}}
+[236月2024 19:16:37.442] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Line Spacing: Not a boolean: {"result":{}}
+[236月2024 19:16:37.442] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Text Background Opacity: Not a boolean: {"result":{}}
+[236月2024 19:16:37.442] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Text Background: Not a boolean: {"result":{}}
+[236月2024 19:16:37.442] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Focused Height: Not a boolean: {"result":{}}
+[236月2024 19:16:37.442] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option options.chat.delay_instant: Not a number: {"result":{}}
+[236月2024 19:16:37.443] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Unfocused Height: Not a boolean: {"result":{}}
+[236月2024 19:16:37.443] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Chat Text Size: Not a boolean: {"result":{}}
+[236月2024 19:16:37.443] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Width: Not a boolean: {"result":{}}
+[236月2024 19:16:37.443] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Notification Time: Not a number: {"result":{}}
+[236月2024 19:16:37.444] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Mipmap Levels: Not a number: {"result":{}}
+[236月2024 19:16:37.444] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Main Hand: Not a string: {"result":{}}
+[236月2024 19:16:37.444] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Attack Indicator: Not a number: {"result":{}}
+[236月2024 19:16:37.444] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Narrator: Not a number: {"result":{}}
+[236月2024 19:16:37.444] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Scroll Sensitivity: Not a number: {"result":{}}
+[236月2024 19:16:37.445] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Raw Input: Not a boolean: {"result":{}}
+[236月2024 19:16:37.445] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Hide Matched Names: Not a boolean: {"result":{}}
+[236月2024 19:16:37.445] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Autosave Indicator: Not a boolean: {"result":{}}
+[236月2024 19:16:37.445] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Allow Server Listings: Not a boolean: {"result":{}}
+[236月2024 19:16:37.445] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Only Show Secure Chat: Not a boolean: {"result":{}}
+[236月2024 19:16:37.445] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Panorama Scroll Speed: Not a boolean: {"result":{}}
+[236月2024 19:16:37.446] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Data Collection: Not a boolean: {"result":{}}
+[236月2024 19:16:37.446] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Master Volume: Not a boolean: {"result":{}}
+[236月2024 19:16:37.446] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Music: Not a boolean: {"result":{}}
+[236月2024 19:16:37.446] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Jukebox/Note Blocks: Not a boolean: {"result":{}}
+[236月2024 19:16:37.446] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Weather: Not a boolean: {"result":{}}
+[236月2024 19:16:37.446] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Blocks: Not a boolean: {"result":{}}
+[236月2024 19:16:37.446] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Hostile Creatures: Not a boolean: {"result":{}}
+[236月2024 19:16:37.446] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Friendly Creatures: Not a boolean: {"result":{}}
+[236月2024 19:16:37.447] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Players: Not a boolean: {"result":{}}
+[236月2024 19:16:37.447] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Ambient/Environment: Not a boolean: {"result":{}}
+[236月2024 19:16:37.447] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Voice/Speech: Not a boolean: {"result":{}}
+[236月2024 19:16:37.452] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.2+13
+[236月2024 19:16:37.737] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 49.0.42, for MC 1.20.4 with MCP 20231207.112700
+[236月2024 19:16:37.737] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v49.0.42 Initialized
+[236月2024 19:16:37.800] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[236月2024 19:16:38.796] [Render thread/INFO] [net.minecraftforge.gametest.ForgeGameTestHooks/]: Enabled Gametest Namespaces: [boi]
+[236月2024 19:16:39.045] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, mod_resources
+[236月2024 19:16:39.144] [Worker-Main-7/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-15.1.04.hex, loading
+[236月2024 19:16:39.199] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[236月2024 19:16:40.288] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 49.0.42 Target: 49.1.0
+[236月2024 19:16:41.880] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Master Volume: Not a boolean: {"result":{}}
+[236月2024 19:16:41.880] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Music: Not a boolean: {"result":{}}
+[236月2024 19:16:41.880] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Jukebox/Note Blocks: Not a boolean: {"result":{}}
+[236月2024 19:16:41.880] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Weather: Not a boolean: {"result":{}}
+[236月2024 19:16:41.880] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Blocks: Not a boolean: {"result":{}}
+[236月2024 19:16:41.880] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Hostile Creatures: Not a boolean: {"result":{}}
+[236月2024 19:16:41.880] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Friendly Creatures: Not a boolean: {"result":{}}
+[236月2024 19:16:41.880] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Players: Not a boolean: {"result":{}}
+[236月2024 19:16:41.880] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Ambient/Environment: Not a boolean: {"result":{}}
+[236月2024 19:16:41.881] [Render thread/ERROR] [net.minecraft.client.Options/]: Error parsing option value {"result":{}} for option Voice/Speech: Not a boolean: {"result":{}}
+[236月2024 19:16:41.914] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:item.goat_horn.play
+[236月2024 19:16:41.914] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[236月2024 19:16:41.915] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.generic.wind_burst
+[236月2024 19:16:41.986] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on 扬声器 (Realtek High Definition Audio)
+[236月2024 19:16:41.987] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[236月2024 19:16:42.096] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[236月2024 19:16:42.186] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[236月2024 19:16:42.188] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[236月2024 19:16:42.192] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[236月2024 19:16:42.195] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[236月2024 19:16:42.220] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[236月2024 19:16:42.221] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[236月2024 19:16:42.223] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[236月2024 19:16:42.224] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[236月2024 19:16:42.855] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[236月2024 19:16:43.431] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[236月2024 19:16:43.445] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[236月2024 19:16:43.447] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[236月2024 19:16:43.449] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[236月2024 19:16:43.984] [IO-Worker-1/INFO] [com.mojang.realmsclient.client.RealmsClient/]: Could not authorize you against Realms server: Invalid session id
+[236月2024 19:16:43.985] [IO-Worker-1/ERROR] [com.mojang.realmsclient.RealmsAvailability/]: Couldn't connect to realms
+com.mojang.realmsclient.exception.RealmsServiceException: Realms authentication error with message 'Invalid session id'
+	at com.mojang.realmsclient.client.RealmsClient.execute(RealmsClient.java:447) ~[forge-1.20.4-49.0.42_mapped_official_1.20.4.jar%230!/:?]
+	at com.mojang.realmsclient.client.RealmsClient.clientCompatible(RealmsClient.java:232) ~[forge-1.20.4-49.0.42_mapped_official_1.20.4.jar%230!/:?]
+	at com.mojang.realmsclient.RealmsAvailability.lambda$check$0(RealmsAvailability.java:45) ~[forge-1.20.4-49.0.42_mapped_official_1.20.4.jar%230!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[236月2024 19:16:55.345] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!

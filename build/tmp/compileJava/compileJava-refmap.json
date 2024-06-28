@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "cn/ksmcbrigade/boi/mixin/OptionInstanceMixin": {
+      "set": "Lnet/minecraft/client/OptionInstance;m_231514_(Ljava/lang/Object;)V"
+    }
+  },
+  "data": {
+    "searge": {
+      "cn/ksmcbrigade/boi/mixin/OptionInstanceMixin": {
+        "set": "Lnet/minecraft/client/OptionInstance;m_231514_(Ljava/lang/Object;)V"
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+cn/ksmcbrigade/boi/mixin/OptionInstanceMixin value f_231481_
+cn/ksmcbrigade/boi/mixin/OptionInstanceMixin onValueUpdate f_231479_
+cn/ksmcbrigade/boi/mixin/OptionsMixin LOGGER f_92077_
+cn/ksmcbrigade/boi/mixin/OptionsMixin optionsFile f_92110_
+cn/ksmcbrigade/boi/mixin/OptionsMixin processOptions (Lnet/minecraft/client/Options$FieldAccess;)V m_168427_
+cn/ksmcbrigade/boi/mixin/OptionsMixin broadcastOptions ()V m_92172_
+cn/ksmcbrigade/boi/mixin/OptionsMixin save ()V m_92169_

@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.ksmcbrigade.boi.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "boi.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "OptionInstanceMixin",
+    "OptionsMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

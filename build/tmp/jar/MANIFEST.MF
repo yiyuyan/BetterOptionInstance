@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: boi
+Specification-Vendor: KSmc_brigade
+Specification-Version: 1
+Implementation-Title: BetterOptionInstance
+Implementation-Version: 1.0
+Implementation-Vendor: KSmc_brigade
+Implementation-Timestamp: 2024-06-29T07:00:35+0800
+MixinConfigs: boi.mixins.json
+
